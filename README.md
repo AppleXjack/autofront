@@ -1,6 +1,7 @@
 Инструкция по запуску и установке:
 
 Команда для запуска скрипта:
+
 curl -sSL https://raw.githubusercontent.com/AppleXjack/autofront/refs/heads/main/setup-front.sh | sudo bash -s IP_BACKEND
 
 IP_BACKEND - заменяем на IP сервера куда будет перегоняться траффик
